@@ -11,7 +11,7 @@ dependencies:
   path: ^1.4.1
   jaguar_jwt: ^2.1.6
   user_preferences: ^0.1.1+4
-  built_value: ^6.3.0
+  built_value: ^7.1.0
   built_collection: ^4.1.0
   rxdart: ^0.24.1
 
